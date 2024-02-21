@@ -1,0 +1,3 @@
+convert CastleTiles.png -crop 32x32 castle_%03d.png
+
+command pro rozdělení assety na menší políčka
